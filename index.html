@@ -4,13 +4,48 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>SSGE - Governance Runtime Architecture</title>
-
 <style>
 body{
-    margin:0;
-    font-family:Arial, Helvetica, sans-serif;
-    background:#f8f9fb;
-    color:#222;
+ margin:0;
+ font-family:Arial, Helvetica, sans-serif;
+ background:#f8f9fb;
+ color:#222;
+}
+
+.nav{
+ position:fixed;
+ top:0;
+ left:0;
+ right:0;
+ background:#0f172a;
+ color:white;
+ display:flex;
+ justify-content:space-between;
+ align-items:center;
+ padding:16px 40px;
+ z-index:1000;
+ box-shadow:0 2px 8px rgba(0,0,0,0.15);
+}
+
+.nav .logo{
+ font-weight:bold;
+ font-size:22px;
+ letter-spacing:1px;
+}
+
+.nav a{
+ color:white;
+ text-decoration:none;
+ margin-left:24px;
+ font-size:15px;
+}
+
+.nav a:hover{
+ text-decoration:underline;
+}
+
+html{
+ scroll-behavior:smooth;
 }
 
 .hero{
@@ -75,6 +110,15 @@ body{
 
 </head>
 <body>
+    <nav class="nav">
+ <div class="logo">SSGE</div>
+ <div>
+  <a href="#architecture">Architecture</a>
+  <a href="#prototype">Prototype</a>
+  <a href="SSGE_One_Pager.pdf">White Paper</a>
+  <a href="mailto:shuqinamberg@proton.me">Contact</a>
+ </div>
+</nav>
 
 <section class="hero">
 
@@ -89,9 +133,9 @@ The Missing Governance Runtime Layer for AI Systems
 </p>
 
 <div class="buttons">
-<a href="#" class="btn">View Architecture</a>
-<a href="#" class="btn">Download White Paper</a>
-<a href="#" class="btn">Request Pilot Program</a>
+<a href="#architecture" class="btn">View Architecture</a>
+<a href="SSGE_One_Pager.pdf" class="btn">Download White Paper</a>
+<a href="mailto:shuqinamberg@proton.me?subject=SSGE Pilot Program Inquiry" class="btn">Request Pilot Program</a>
 </div>
 
 </section>
@@ -134,8 +178,7 @@ without accessing proprietary technology.
 
 </section>
 
-<section class="section">
-
+<section class="section" id="prototype">
 <h2>Live Prototype</h2>
 
 <div class="card">
@@ -154,7 +197,7 @@ Current prototype generates:
 </div>
 
 </section>
-<section class="section">
+<section class="section" id="architecture">
 <h2>SSGE Architecture Overview</h2>
 
 <div class="card" style="text-align:center;">
