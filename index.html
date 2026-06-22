@@ -4,55 +4,56 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>SSGE - Governance Runtime Architecture</title>
+
 <style>
+html{
+    scroll-behavior:smooth;
+}
+
 body{
- margin:0;
- font-family:Arial, Helvetica, sans-serif;
- background:#f8f9fb;
- color:#222;
+    margin:0;
+    font-family:Arial, Helvetica, sans-serif;
+    background:#f8f9fb;
+    color:#222;
 }
 
 .nav{
- position:fixed;
- top:0;
- left:0;
- right:0;
- background:#0f172a;
- color:white;
- display:flex;
- justify-content:space-between;
- align-items:center;
- padding:16px 40px;
- z-index:1000;
- box-shadow:0 2px 8px rgba(0,0,0,0.15);
+    position:fixed;
+    top:0;
+    left:0;
+    right:0;
+    background:#0f172a;
+    color:white;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:16px 40px;
+    z-index:1000;
+    box-shadow:0 2px 8px rgba(0,0,0,0.15);
 }
 
 .nav .logo{
- font-weight:bold;
- font-size:22px;
- letter-spacing:1px;
+    font-weight:bold;
+    font-size:22px;
+    letter-spacing:1px;
 }
 
 .nav a{
- color:white;
- text-decoration:none;
- margin-left:24px;
- font-size:15px;
+    color:white;
+    text-decoration:none;
+    margin-left:24px;
+    font-size:15px;
 }
 
 .nav a:hover{
- text-decoration:underline;
-}
-
-html{
- scroll-behavior:smooth;
+    text-decoration:underline;
 }
 
 .hero{
     background:#0f172a;
     color:white;
     text-align:center;
-    padding:100px 20px;
+    padding:140px 20px 100px;
 }
 
 .hero h1{
@@ -81,10 +82,15 @@ html{
     border-radius:6px;
 }
 
+.btn:hover{
+    background:#1d4ed8;
+}
+
 .section{
     max-width:1100px;
     margin:auto;
     padding:80px 20px;
+    scroll-margin-top:90px;
 }
 
 .section h2{
@@ -100,24 +106,60 @@ html{
     box-shadow:0 2px 10px rgba(0,0,0,0.08);
 }
 
+.card img{
+    display:block;
+    margin:auto;
+}
+
 .footer{
     background:#111827;
     color:white;
     text-align:center;
     padding:40px;
 }
+
+@media (max-width:700px){
+    .nav{
+        padding:14px 20px;
+        flex-direction:column;
+        gap:10px;
+    }
+
+    .nav a{
+        margin-left:10px;
+        margin-right:10px;
+        font-size:14px;
+    }
+
+    .hero{
+        padding:160px 20px 80px;
+    }
+
+    .hero h1{
+        font-size:40px;
+    }
+
+    .hero p{
+        font-size:18px;
+    }
+
+    .section h2{
+        font-size:30px;
+    }
+}
 </style>
 
 </head>
 <body>
-    <nav class="nav">
- <div class="logo">SSGE</div>
- <div>
-  <a href="#architecture">Architecture</a>
-  <a href="#prototype">Prototype</a>
-  <a href="SSGE_One_Pager.pdf">White Paper</a>
-  <a href="mailto:shuqinamberg@proton.me">Contact</a>
- </div>
+
+<nav class="nav">
+    <div class="logo">SSGE</div>
+    <div>
+        <a href="#architecture">Architecture</a>
+        <a href="#prototype">Prototype</a>
+        <a href="SSGE_One_Pager.pdf">White Paper</a>
+        <a href="mailto:shuqinamberg@proton.me">Contact</a>
+    </div>
 </nav>
 
 <section class="hero">
@@ -136,6 +178,24 @@ The Missing Governance Runtime Layer for AI Systems
 <a href="#architecture" class="btn">View Architecture</a>
 <a href="SSGE_One_Pager.pdf" class="btn">Download White Paper</a>
 <a href="mailto:shuqinamberg@proton.me?subject=SSGE Pilot Program Inquiry" class="btn">Request Pilot Program</a>
+</div>
+
+</section>
+
+<section class="section" id="architecture">
+<h2>SSGE Architecture Overview</h2>
+
+<div class="card" style="text-align:center;">
+
+<img src="Architecture.png"
+     alt="SSGE Architecture"
+     style="max-width:100%;border-radius:10px;">
+
+<p style="margin-top:20px;">
+SSGE transforms raw data into accountable intelligence through
+Structure, Governance, Application and Audit layers.
+</p>
+
 </div>
 
 </section>
@@ -197,23 +257,7 @@ Current prototype generates:
 </div>
 
 </section>
-<section class="section" id="architecture">
-<h2>SSGE Architecture Overview</h2>
 
-<div class="card" style="text-align:center;">
-
-<img src="Architecture.png"
-     alt="SSGE Architecture"
-     style="max-width:100%;border-radius:10px;">
-
-<p style="margin-top:20px;">
-SSGE transforms raw data into accountable intelligence through
-Structure, Governance, Application and Audit layers.
-</p>
-
-</div>
-
-</section>
 <section class="footer">
 
 <h3>Shuqin Amberg</h3>
