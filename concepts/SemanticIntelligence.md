@@ -130,6 +130,78 @@ trustworthy intelligence.
 
 ---
 
+## Intelligence Has Boundaries
+
+Semantic Intelligence
+
+does not imply
+
+unbounded intelligence.
+
+Its capability
+
+exists
+
+only
+
+within
+
+explicit semantic boundaries.
+
+Semantic Intelligence
+
+does not
+
+develop
+
+its own objectives,
+
+its own values,
+
+or its own governance.
+
+It remains
+
+bounded
+
+by human governance,
+
+semantic constraints,
+
+and civilizational principles.
+
+Greater intelligence
+
+must never mean
+
+greater autonomy.
+
+In SSGE,
+
+greater intelligence
+
+means
+
+greater responsibility,
+
+greater transparency,
+
+and greater trustworthiness.
+
+Bounded intelligence
+
+is therefore
+
+not a limitation.
+
+It is
+
+the prerequisite
+
+for trustworthy intelligence.
+
+---
+
 ## Intelligence Learns Through Evidence
 
 Semantic Intelligence
