@@ -57,6 +57,10 @@ C-020 Semantic Intelligence
 (Reserved)
 
 ---
+# Volume IV — Implementation
+
+(Reserved)
+---
 ---
 
 # Milestone
@@ -74,7 +78,12 @@ Volume I answers one fundamental question:
 This milestone marks the beginning of Governance Engineering as a systematic discipline.
 
 ---
+Status
 
-# Volume IV — Implementation
+✓ Foundation
 
-(Reserved)
+◉ Semantic Execution
+
+○ Governance Engineering
+
+○ Implementation
