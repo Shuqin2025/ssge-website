@@ -51,7 +51,7 @@ C-020 Semantic Intelligence
 
 ---
 
-# Volume III — Governance Engineering
+# Volume III — Civilizational Governance
 
 (Reserved)
 
@@ -113,10 +113,8 @@ Completed
 
 ✓ Semantic Execution
 
-In Progress
+✓ Civilizational Governance
 
-◉ Civilizational Governance
+Current Focus
 
-Future
-
-○ Implementation
+◉ Implementation
