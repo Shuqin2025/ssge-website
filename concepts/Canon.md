@@ -32,16 +32,15 @@ C-010 Trust
 
 C-011 Semantic Execution
 
-C-012 Semantic Context
+C-012 Semantic State
 
-C-013 Semantic Memory
+C-013 Semantic Context
 
-C-014 Semantic State
+C-014 Semantic Memory
 
 C-015 Semantic Integrity
 
 C-016 Semantic Loss
-
 C-017 Semantic Recovery
 
 C-018 Semantic Evolution
