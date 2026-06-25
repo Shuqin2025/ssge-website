@@ -1,3 +1,5 @@
+# C-001
+
 # SSGE Manifesto
 
 ## From AI Outputs to AI Evidence
@@ -107,3 +109,5 @@ It must be built on evidence.
 We are not building another AI.
 
 We are building the foundation that future AI can stand on.
+## Related Canon
+- C-001 Manifesto
