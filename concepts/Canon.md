@@ -77,12 +77,46 @@ Volume I answers one fundamental question:
 This milestone marks the beginning of Governance Engineering as a systematic discipline.
 
 ---
-Status
+
+2026 — SSGE Canon · Volume II (Semantic Execution)
+
+The second volume establishes the operational semantics of Governance Engineering.
+
+Rather than focusing on model capability, it defines how intelligence preserves meaning throughout execution.
+
+It introduces semantic state management, context continuity, integrity preservation, semantic recovery, controlled evolution, verification, and governed intelligence as an integrated runtime architecture.
+
+Volume II answers one fundamental question:
+
+How does intelligence execute without losing meaning?
+
+This milestone marks the emergence of Semantic Runtime Engineering as a distinct discipline within Governance Engineering.
+
+---
+
+2026 — SSGE Canon · Volume III (Civilizational Governance)
+
+The third volume extends Governance Engineering beyond intelligent systems into the governance of civilization itself.
+
+It defines the semantic boundaries, governance contracts, authority structures, and civilizational principles required for trustworthy intelligence to coexist with humanity.
+
+Volume III answers one fundamental question:
+
+How can intelligence evolve without civilization losing control?
+
+---
+## Canon Progress
+
+Completed
 
 ✓ Foundation
 
-◉ Semantic Execution
+✓ Semantic Execution
 
-○ Governance Engineering
+In Progress
+
+◉ Civilizational Governance
+
+Future
 
 ○ Implementation
