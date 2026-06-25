@@ -57,6 +57,23 @@ C-020 Semantic Intelligence
 (Reserved)
 
 ---
+---
+
+# Milestone
+
+## 2026 — SSGE Canon · Volume I (Foundation)
+
+The first volume of the SSGE Canon establishes the theoretical foundation of Governance Engineering.
+
+It defines the philosophy, principles, runtime model, execution architecture, evidence model, governance framework and trust model of the Structured Semantic Governance Engine.
+
+Volume I answers one fundamental question:
+
+> How can AI become trustworthy?
+
+This milestone marks the beginning of Governance Engineering as a systematic discipline.
+
+---
 
 # Volume IV — Implementation
 
