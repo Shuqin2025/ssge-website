@@ -1,0 +1,3 @@
+# SSGE Manifesto
+
+Coming soon.
