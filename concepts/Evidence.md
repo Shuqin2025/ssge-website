@@ -10,136 +10,138 @@ Logs record events.
 
 Logs describe what happened.
 
-SSGE Evidence is fundamentally different.
+SSGE Evidence serves a fundamentally different purpose.
 
-Evidence explains why execution happened.
+Evidence explains why execution occurred.
 
-It preserves the semantic, governance and decision context behind every execution.
+It preserves the semantic state, governance context, decision trace, and execution rationale throughout the execution lifecycle.
 
 Evidence is therefore not operational data.
 
-It is governance knowledge.
+It is governed execution knowledge.
 
 ---
 
-## Evidence Is Produced During Execution
+## Evidence Is Generated Throughout Execution
 
-Evidence is not generated after execution.
+Evidence is not created after execution.
 
-It is produced continuously while execution is occurring.
+It is generated continuously throughout the execution lifecycle.
 
-Every semantic transformation,
+Every:
 
-every governance decision,
+* semantic transformation
+* governance evaluation
+* policy application
+* decision trace
+* verification result
+* execution outcome
 
-every policy evaluation,
+may contribute to execution evidence.
 
-every rule match,
-
-and every execution outcome
-
-may contribute to evidence.
-
-Evidence grows together with execution.
+Evidence evolves together with execution.
 
 ---
 
 ## Evidence Is Structured
 
-Evidence is never an unstructured collection of records.
+Execution evidence is never an unstructured collection of records.
 
-Each evidence item belongs to a structured semantic context.
+Every evidence artifact belongs to a governed semantic context.
 
-Typical evidence may include:
+A typical evidence record may include:
 
-- semantic interpretation
-- governance policy
-- decision rationale
-- execution trace
-- confidence assessment
-- rule references
-- version information
+* semantic state
+* semantic context
+* governance policies
+* decision trace
+* execution rationale
+* confidence assessment
+* verification results
+* rule references
+* policy version
+* execution metadata
 
-Structure enables explanation.
-
----
-
-## Evidence Makes AI Explainable
-
-Outputs answer questions.
-
-Evidence answers why.
-
-It explains:
-
-- why this decision was produced
-- why alternatives were rejected
-- why governance approved execution
-- why confidence was sufficient
-- why the result can be trusted
-
-Explainability is therefore built upon evidence.
+Structured evidence enables trustworthy interpretation.
 
 ---
 
-## Evidence Makes AI Reproducible
+## Evidence Enables Explainability
 
-Execution should not depend on hidden internal states.
+Outputs answer **what**.
 
-Using identical:
+Evidence explains **why** and **how**.
 
-- inputs
-- governance rules
-- semantic structures
-- execution policies
+Execution evidence enables organizations to determine:
 
-an organization should be able to reconstruct the execution process.
+* why a decision was produced
+* how semantic states evolved
+* which governance policies were applied
+* why alternative decisions were rejected
+* why execution was approved
+* why the final result can be trusted
 
-Evidence preserves the information required for reproducibility.
+Explainability is established through execution evidence.
 
 ---
 
-## Evidence Makes AI Accountable
+## Evidence Enables Reproducibility
+
+Execution should never depend upon hidden internal behavior.
+
+Given identical:
+
+* semantic input
+* semantic context
+* governance policies
+* execution configuration
+
+organizations should be able to reconstruct the governed execution process.
+
+Execution evidence preserves the information required for reproducibility.
+
+---
+
+## Evidence Enables Accountability
 
 Trust requires accountability.
 
-Accountability requires evidence.
+Accountability requires verifiable evidence.
 
-Without evidence,
+Without execution evidence,
 
-responsibility cannot be verified.
+responsibility cannot be demonstrated.
 
-Without verification,
+Without accountability,
 
-governance cannot exist.
+governance cannot be sustained.
 
-Evidence therefore becomes the foundation of accountable intelligence.
-
----
-
-## Evidence Becomes Organizational Memory
-
-Evidence is more than execution history.
-
-It becomes organizational knowledge.
-
-Over time,
-
-millions of execution records reveal:
-
-- recurring patterns
-- governance weaknesses
-- policy effectiveness
-- semantic evolution
-- operational risks
-
-Evidence transforms isolated executions into collective intelligence.
+Execution evidence therefore becomes the operational foundation of trustworthy AI.
 
 ---
 
-## Evidence Is the New Output
+## Evidence Becomes Organizational Intelligence
 
-Traditional AI delivers outputs.
+Execution evidence is more than execution history.
+
+It becomes governed organizational knowledge.
+
+Over time, accumulated evidence reveals:
+
+* recurring execution patterns
+* governance effectiveness
+* policy performance
+* semantic continuity
+* operational risks
+* opportunities for governance refinement
+
+Evidence transforms isolated executions into continuously improving organizational intelligence.
+
+---
+
+## Evidence Defines Trustworthy Execution
+
+Traditional AI systems primarily deliver outputs.
 
 SSGE delivers:
 
@@ -153,15 +155,19 @@ Evidence
 
 Trust
 
-Evidence is therefore not a by-product.
+Execution evidence is not a by-product of AI execution.
 
-It is the primary product of trustworthy execution.
+It is the primary artifact of trustworthy execution.
 
 ---
 
 ## Related Canon
 
-- C-001 Manifesto
-- C-005 Runtime
-- C-006 Architecture
-- C-007 Execution Loop
+* C-005 Runtime
+* C-006 Architecture
+* C-007 Execution Loop
+* C-009 Governance
+* C-010 Trust
+* C-011 Semantic Execution
+* C-012 Semantic State
+* C-013 Semantic Context
