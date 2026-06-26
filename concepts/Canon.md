@@ -1,6 +1,6 @@
 # SSGE Canon
 
-The official theoretical foundation of the Structured Semantic Governance Engine.
+**The Official Theoretical Foundation of the Structured Semantic Governance Engine**
 
 ---
 
@@ -41,80 +41,119 @@ C-014 Semantic Memory
 C-015 Semantic Integrity
 
 C-016 Semantic Loss
+
 C-017 Semantic Recovery
 
-C-018 Semantic Evolution
+C-018 Semantic Continuity
 
 C-019 Semantic Verification
 
-C-020 Semantic Intelligence
+C-020 Governable Intelligence
 
 ---
 
 # Volume III — Civilizational Governance
 
-(Reserved)
+**(Planned)**
 
 ---
+
 # Volume IV — Implementation
 
-(Reserved)
+**(Planned)**
+
 ---
----
 
-# Milestone
+# Canon Milestones
 
-## 2026 — SSGE Canon · Volume I (Foundation)
+## 2026 — Volume I · Foundation
 
-The first volume of the SSGE Canon establishes the theoretical foundation of Governance Engineering.
+Volume I establishes the theoretical foundation of Governance Engineering.
 
-It defines the philosophy, principles, runtime model, execution architecture, evidence model, governance framework and trust model of the Structured Semantic Governance Engine.
+It defines the philosophy, architectural principles, Governance Runtime, execution model, evidence architecture, governance framework, and trust model of the Structured Semantic Governance Engine.
 
 Volume I answers one fundamental question:
 
-> How can AI become trustworthy?
+> **How can AI become trustworthy?**
 
-This milestone marks the beginning of Governance Engineering as a systematic discipline.
+This milestone establishes Governance Engineering as a systematic engineering discipline.
 
 ---
 
-2026 — SSGE Canon · Volume II (Semantic Execution)
+## 2026 — Volume II · Semantic Execution
 
-The second volume establishes the operational semantics of Governance Engineering.
+Volume II establishes the operational semantics of Governance Engineering.
 
-Rather than focusing on model capability, it defines how intelligence preserves meaning throughout execution.
+Rather than focusing on model capability, it defines how semantic execution preserves meaning throughout the execution lifecycle.
 
-It introduces semantic state management, context continuity, integrity preservation, semantic recovery, controlled evolution, verification, and governed intelligence as an integrated runtime architecture.
+It introduces Semantic State, Semantic Context, Semantic Memory, Semantic Integrity, Semantic Loss, Semantic Recovery, Semantic Continuity, Semantic Verification, and Governable Intelligence as an integrated runtime architecture.
 
 Volume II answers one fundamental question:
 
-How does intelligence execute without losing meaning?
+> **How can intelligence execute without losing meaning?**
 
-This milestone marks the emergence of Semantic Runtime Engineering as a distinct discipline within Governance Engineering.
+This milestone establishes Semantic Runtime Engineering as the operational foundation of Governance Engineering.
 
 ---
 
-2026 — SSGE Canon · Volume III (Civilizational Governance)
+## Volume III — Civilizational Governance
 
-The third volume extends Governance Engineering beyond intelligent systems into the governance of civilization itself.
+**Planned**
 
-It defines the semantic boundaries, governance contracts, authority structures, and civilizational principles required for trustworthy intelligence to coexist with humanity.
+Volume III extends Governance Engineering beyond intelligent systems toward civilization-scale governance.
+
+It defines semantic governance boundaries, governance contracts, authority structures, institutional responsibilities, and civilizational principles required for trustworthy intelligence to coexist with humanity.
 
 Volume III answers one fundamental question:
 
-How can intelligence evolve without civilization losing control?
+> **How can intelligence evolve while civilization retains governance?**
 
 ---
-## Canon Progress
 
-Completed
+## Volume IV — Implementation
 
-✓ Foundation
+**Planned**
 
-✓ Semantic Execution
+Volume IV translates Governance Engineering into deployable software architecture.
 
-✓ Civilizational Governance
+It defines reference implementations, Governance Runtime APIs, Semantic Manifests, SDKs, deployment models, interoperability standards, governance protocols, and engineering specifications required for real-world adoption.
 
-Current Focus
+Volume IV answers one fundamental question:
 
-◉ Implementation
+> **How can Governance Engineering become operational infrastructure?**
+
+---
+
+# Canon Progress
+
+## Completed
+
+✓ Volume I — Foundation
+
+✓ Volume II — Semantic Execution
+
+---
+
+## In Progress
+
+◉ [www.ssge.ai](http://www.ssge.ai)
+
+◉ Governance Runtime Implementation
+
+◉ Semantic Runtime Engineering
+
+---
+
+## Planned
+
+○ Volume III — Civilizational Governance
+
+○ Volume IV — Implementation
+
+○ Governance Runtime Specification
+
+○ Semantic Manifest Specification
+
+○ Governance SDK
+
+○ Open Governance Protocol
