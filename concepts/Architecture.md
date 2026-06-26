@@ -2,13 +2,13 @@
 
 # SSGE Architecture
 
-## The Runtime Architecture
+## Governance Runtime Architecture
 
-SSGE introduces a new software layer between AI models and business applications.
+SSGE introduces a Governance Runtime between AI models and application systems.
 
 Its purpose is not to generate intelligence.
 
-Its purpose is to govern execution.
+Its purpose is to govern semantic execution.
 
 ---
 
@@ -26,11 +26,15 @@ Governance Engine
 
 ↓
 
-Decision Engine
+Semantic Execution
 
 ↓
 
-Evidence Engine
+Decision Trace
+
+↓
+
+Evidence Generation
 
 ↓
 
@@ -50,81 +54,104 @@ Transforms raw inputs into structured semantic execution.
 
 Responsible for:
 
-- context construction
-- semantic normalization
-- execution preparation
+* semantic normalization
+* semantic context construction
+* semantic state initialization
+* execution preparation
 
 ---
 
 ### Governance Engine
 
-Controls execution.
+Supervises execution throughout the execution lifecycle.
 
 Responsible for:
 
-- policy evaluation
-- execution validation
-- rule enforcement
-- runtime supervision
+* governance policy evaluation
+* execution validation
+* policy enforcement
+* runtime governance
+* semantic constraint management
 
 ---
 
-### Decision Engine
+### Semantic Execution
 
-Records every important decision.
+Executes governed semantic transformations.
 
 Responsible for:
 
-- decision reasoning
-- decision metadata
-- confidence recording
-- execution checkpoints
+* semantic state evolution
+* decision generation
+* execution coordination
+* semantic continuity
 
 ---
 
-### Evidence Engine
+### Decision Trace
 
-Generates execution evidence.
+Preserves the execution path.
 
 Responsible for:
 
-- evidence creation
-- trace generation
-- replay metadata
-- audit package generation
+* decision recording
+* execution checkpoints
+* confidence recording
+* governance traceability
+
+---
+
+### Evidence Generation
+
+Produces structured execution evidence.
+
+Responsible for:
+
+* evidence generation
+* governance artifact creation
+* replay metadata
+* audit package generation
 
 ---
 
 ### Evidence Repository
 
-Stores execution history.
+Preserves execution history.
 
 Responsible for:
 
-- trace persistence
-- replay support
-- version history
-- evidence indexing
+* evidence persistence
+* trace preservation
+* execution replay
+* version history
+* governance indexing
 
 ---
 
-## Architecture Philosophy
+## Architecture Principles
 
-Every execution should leave evidence.
+Every execution should preserve semantic state.
 
-Every decision should leave context.
+Every decision should preserve traceability.
 
-Every policy should leave trace.
+Every governance action should preserve evidence.
 
-Nothing important should disappear.
+Every execution should remain reproducible.
+
+No critical semantic transformation should become invisible during execution.
 
 ---
 
 ## Related Canon
 
-- C-001 Manifesto
-- C-002 Vision
-- C-003 Mission
-- C-004 Principles
-- C-005 Runtime
-- C-007 Evidence
+* C-001 Manifesto
+* C-002 Vision
+* C-003 Mission
+* C-004 Principles
+* C-005 Runtime
+* C-007 Execution Loop
+* C-008 Evidence
+* C-009 Governance
+* C-011 Semantic Execution
+* C-012 Semantic State
+* C-013 Semantic Context
