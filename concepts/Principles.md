@@ -2,77 +2,88 @@
 
 # SSGE Principles
 
-## Principle 1 — Execution before Output
+The following principles define the architectural foundation of SSGE Governance Runtime.
 
-AI should first execute correctly.
-
-Outputs are only meaningful when execution is trustworthy.
+They are intended to guide the design, execution, and governance of trustworthy AI systems.
 
 ---
 
-## Principle 2 — Evidence before Claims
+## Principle 1 — Execution Before Output
 
-Every important AI decision should leave evidence.
+AI execution should be trustworthy before outputs are accepted.
 
-Trust comes from evidence, not promises.
+Outputs have value only when the execution that produced them can be trusted.
+
+---
+
+## Principle 2 — Evidence Before Claims
+
+Every significant AI execution should produce verifiable evidence.
+
+Trust must be established through evidence rather than assertions.
 
 ---
 
 ## Principle 3 — Transparency by Design
 
-Execution should be visible.
+Transparency should be an intrinsic property of execution.
 
-Not reconstructed afterwards.
-
----
-
-## Principle 4 — Governance at Runtime
-
-Governance should happen during execution,
-
-not after failure.
+It should not rely on post-hoc reconstruction.
 
 ---
 
-## Principle 5 — Structure Creates Trust
+## Principle 4 — Governance Throughout Execution
 
-Structured execution creates predictable systems.
+Governance should exist throughout the execution lifecycle.
 
-Predictability creates trust.
-
----
-
-## Principle 6 — Every Decision Leaves a Trace
-
-Critical AI actions must be traceable,
-
-reviewable,
-
-and reproducible.
+It should not begin only after failures occur.
 
 ---
 
-## Principle 7 — Continuous Improvement
+## Principle 5 — Structure Enables Trust
 
-Evidence is not only for auditing.
+Structured semantic execution enables predictable system behavior.
 
-Evidence should improve future execution.
+Predictable execution establishes trustworthy AI systems.
+
+---
+
+## Principle 6 — Every Execution Leaves Evidence
+
+Every critical AI execution should preserve:
+
+* decision traceability
+* execution evidence
+* governance records
+* reproducible execution states
+
+---
+
+## Principle 7 — Continuous Governance Improvement
+
+Execution evidence is not preserved solely for auditing.
+
+It should continuously improve future governance policies and execution quality.
 
 ---
 
 ## Principle 8 — Human Accountability
 
-AI assists.
+Artificial Intelligence assists decision-making.
 
-Humans remain accountable.
+Human organizations remain accountable for governance.
 
-Governance protects both.
+Governance protects both human responsibility and system integrity.
 
 ---
 
 ## Related Canon
 
-- C-001 Manifesto
-- C-002 Vision
-- C-003 Mission
-- C-005 Architecture
+* C-001 Manifesto
+* C-002 Vision
+* C-003 Mission
+* C-005 Runtime
+* C-007 Execution Loop
+* C-008 Evidence
+* C-009 Governance
+* C-010 Trust
