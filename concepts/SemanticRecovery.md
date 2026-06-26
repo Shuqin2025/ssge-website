@@ -4,77 +4,58 @@
 
 ## Beyond Error Recovery
 
-Traditional systems recover
-
-from failures,
+Traditional systems recover from failures,
 
 exceptions,
 
 or missing data.
 
-Recovery usually restores
+Recovery restores system availability.
 
-system availability.
+SSGE introduces **Semantic Recovery**.
 
-SSGE introduces
+Its objective is not merely to resume execution,
 
-Semantic Recovery.
-
-Its objective
-
-is not merely to resume execution,
-
-but to restore semantic meaning.
+but to restore governed semantic meaning.
 
 ---
 
-## What Is Semantic Recovery?
+## Definition
 
-Semantic Recovery is the process
+Semantic Recovery is the governed process of reconstructing trustworthy semantic execution after semantic degradation, semantic inconsistency, or governance interruption has been detected.
 
-of reconstructing trustworthy semantic execution
+Semantic Recovery restores:
 
-after semantic degradation,
+* semantic meaning
+* semantic continuity
+* governance consistency
+* execution integrity
 
-context inconsistency,
-
-or governance interruption
-
-has been detected.
-
-Recovery restores
-
-meaning,
-
-not merely operation.
+Recovery therefore restores trustworthy execution rather than operational availability alone.
 
 ---
 
 ## Recovery Begins With Evidence
 
-Recovery is always
+Semantic Recovery is always evidence-driven.
 
-evidence-driven.
+Execution evidence,
 
-Execution traces,
+semantic states,
 
 semantic contexts,
 
+decision traces,
+
 governance records,
 
-runtime observations,
+and verification history
 
-and evidence chains
+provide the foundation for recovery.
 
-provide the foundation
+Without execution evidence,
 
-for reconstructing
-
-the intended semantic process.
-
-Without evidence,
-
-recovery becomes speculation.
+Semantic Recovery becomes reconstruction by assumption rather than reconstruction by verification.
 
 ---
 
@@ -82,169 +63,111 @@ recovery becomes speculation.
 
 Semantic Recovery may include:
 
-- evidence reconstruction
-- context restoration
-- semantic alignment
-- governance replay
-- policy re-evaluation
-- execution replay
-- rule synchronization
-- trace repair
-- consistency validation
-- recovery verification
+* evidence reconstruction
+* semantic context restoration
+* semantic state alignment
+* governance replay
+* execution replay
+* policy re-evaluation
+* rule synchronization
+* trace reconstruction
+* semantic verification
+* recovery validation
 
-Together,
-
-these capabilities
-
-restore trustworthy execution.
+Together these capabilities restore governed semantic execution.
 
 ---
 
-## Recovery Is Governed
+## Semantic Recovery Is Governed
 
-Recovery is not
+Recovery is itself a governed execution.
 
-an ad hoc activity.
+Every recovery action operates under:
 
-It operates
+* governance policies
+* execution constraints
+* organizational objectives
+* verification requirements
 
-under governance policies,
+Every recovery execution produces:
 
-runtime constraints,
+* execution evidence
+* decision trace
+* governance artifacts
+* verification records
 
-and organizational objectives.
+Recovery therefore remains fully observable,
 
-Every recovery action
+traceable,
 
-itself becomes
-
-a governed execution,
-
-producing
-
-its own evidence
-
-and traceability.
+and accountable.
 
 ---
 
-## Recovery Preserves Trust
+## Semantic Recovery Strengthens Trust
 
-Organizations trust systems
+Trustworthy systems are not defined by the absence of failure.
 
-that can explain failure.
+They are defined by transparent recovery.
 
-They trust even more
+Organizations trust systems that can:
 
-systems that can recover
+* detect semantic degradation
+* explain recovery decisions
+* reconstruct execution
+* verify restored semantic meaning
 
-from semantic degradation
-
-in a transparent,
-
-verifiable,
-
-and reproducible manner.
-
-Recovery therefore
-
-strengthens trust
-
-rather than hiding failure.
+Semantic Recovery therefore strengthens trust rather than concealing failure.
 
 ---
 
-## Recovery Enables Learning
+## Semantic Recovery Improves Governance
 
-Every recovery
+Every recovery reveals new governance knowledge.
 
-reveals
+Recovered execution contributes:
 
-new governance knowledge.
+* additional execution evidence
+* governance experience
+* policy refinement
+* semantic continuity
+* organizational knowledge
 
-Recovered executions
-
-become
-
-new evidence,
-
-new memory,
-
-and new governance experience.
-
-Recovery therefore
-
-does not merely restore systems.
-
-It improves future execution.
+Semantic Recovery therefore improves future execution rather than merely restoring previous execution.
 
 ---
 
-## Recovery Is Continuous
+## Semantic Recovery Is Continuous
 
-Semantic Recovery
+Semantic Recovery is not limited to catastrophic failures.
 
-is not limited
+It may be initiated by:
 
-to catastrophic failures.
+* semantic drift
+* context inconsistency
+* governance conflicts
+* evidence discontinuity
+* policy incompatibility
+* semantic degradation
 
-Minor semantic deviations,
-
-policy conflicts,
-
-context drift,
-
-and evidence inconsistencies
-
-may all trigger
-
-incremental recovery.
-
-Governance therefore
-
-continuously protects
-
-semantic execution
-
-throughout runtime.
+Governance therefore continuously protects semantic execution throughout the execution lifecycle.
 
 ---
 
 ## Looking Forward
 
-Semantic Recovery
+Semantic Recovery restores trustworthy semantic execution after degradation.
 
-restores
+The next challenge is preserving semantic continuity across multiple governed execution lifecycles.
 
-semantic consistency
-
-after degradation.
-
-The next challenge
-
-is allowing
-
-the recovered system
-
-to evolve continuously.
-
-This leads naturally to
-
-Semantic Evolution,
-
-where every verified recovery
-
-becomes
-
-the foundation
-
-for future improvement.
+This naturally leads to **Semantic Continuity**, where verified semantic knowledge remains coherent throughout continuous governance and execution.
 
 ---
 
 ## Related Canon
 
-- C-016 Semantic Loss
-- C-018 Semantic Evolution
-- C-008 Evidence
+* C-016 Semantic Loss
+* C-018 Semantic Continuity
+* C-015 Semantic Integrity
+* C-008 Evidence
+* C-009 Governance
