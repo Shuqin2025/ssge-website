@@ -6,68 +6,56 @@
 
 Traditional systems measure information loss.
 
-Bits may disappear.
+Data may be corrupted.
 
-Records may be incomplete.
+Records may become incomplete.
 
-Signals may become noisy.
+Signals may degrade.
 
-SSGE introduces a different challenge.
+SSGE addresses a different challenge.
 
-Even when information remains,
+Even when information remains intact,
 
-its semantic meaning may gradually disappear.
+its semantic meaning may gradually deteriorate.
 
-This phenomenon is Semantic Loss.
+This phenomenon is defined as **Semantic Loss**.
 
 ---
 
-## What Is Semantic Loss?
+## Definition
 
-Semantic Loss is the gradual degradation of semantic meaning
+Semantic Loss is the measurable degradation of semantic meaning throughout the execution lifecycle.
 
-during execution,
+Information may remain available,
 
-transformation,
+while its intended semantic meaning,
 
-communication,
+governance interpretation,
 
-governance,
+or execution relevance
 
-or evolution.
+gradually weakens.
 
-Information may still exist,
-
-yet its intended meaning
-
-can no longer be faithfully preserved.
-
-Semantic Loss therefore represents
-
-the loss of understanding,
-
-not merely the loss of data.
+Semantic Loss therefore represents the degradation of understanding rather than the loss of information alone.
 
 ---
 
 ## Where Semantic Loss Occurs
 
-Semantic Loss may occur during:
+Semantic Loss may occur throughout governed execution, including:
 
-- semantic transformation
-- context switching
-- policy evolution
-- evidence generation
-- model interaction
-- workflow orchestration
-- human intervention
-- system integration
-- organizational change
-- long-term execution history
+* semantic transformation
+* semantic compression
+* context transition
+* policy refinement
+* evidence generation
+* model interaction
+* workflow orchestration
+* system integration
+* organizational evolution
+* long-term semantic continuity
 
-Each transition
-
-may introduce semantic degradation.
+Every semantic transition introduces the possibility of semantic degradation.
 
 ---
 
@@ -75,47 +63,42 @@ may introduce semantic degradation.
 
 Semantic Loss may result from:
 
-- incomplete context
-- inconsistent interpretation
-- outdated policies
-- broken evidence chains
-- missing governance constraints
-- incompatible rule versions
-- ambiguous semantics
-- fragmented execution history
-- uncontrolled evolution
-- improper recovery
+* incomplete semantic context
+* inconsistent interpretation
+* semantic compression
+* outdated governance policies
+* broken evidence continuity
+* missing governance constraints
+* incompatible policy versions
+* ambiguous semantic representations
+* fragmented execution history
+* uncontrolled semantic evolution
 
-Semantic Loss is therefore
-
-an engineering problem,
-
-not merely a technical defect.
+Semantic Loss is therefore a governance engineering challenge rather than merely a technical defect.
 
 ---
 
 ## Measuring Semantic Loss
 
-SSGE treats Semantic Loss
+SSGE treats Semantic Loss as an observable runtime property.
 
-as an observable runtime phenomenon.
+Semantic Loss may be evaluated through:
 
-Loss may be evaluated through:
+* semantic preservation score
+* semantic consistency
+* context preservation
+* evidence continuity
+* governance completeness
+* execution reproducibility
+* policy alignment
+* trace continuity
+* semantic confidence
 
-- semantic consistency
-- context preservation
-- evidence continuity
-- governance completeness
-- execution reproducibility
-- policy alignment
-- trace integrity
-- semantic confidence
-
-Loss therefore becomes
-
-measurable,
+Semantic Loss therefore becomes measurable,
 
 comparable,
+
+auditable,
 
 and governable.
 
@@ -123,118 +106,80 @@ and governable.
 
 ## Why Semantic Loss Matters
 
-Semantic Loss reduces
+Semantic Loss directly affects:
 
-explainability,
-
-reproducibility,
-
-governance quality,
-
-and organizational trust.
+* explainability
+* reproducibility
+* governance quality
+* execution reliability
+* organizational trust
 
 As semantic degradation accumulates,
 
-execution becomes increasingly difficult
-
-to understand,
+execution becomes increasingly difficult to interpret,
 
 verify,
 
-and improve.
+reproduce,
 
-Preventing Semantic Loss
+and continuously improve.
 
-is therefore essential
-
-for trustworthy AI.
+Preventing Semantic Loss is therefore essential for trustworthy AI execution.
 
 ---
 
-## Loss Enables Improvement
+## Semantic Loss Enables Improvement
 
-Detecting Semantic Loss
+Detecting Semantic Loss is not the objective.
 
-is not the end.
+Improving governed execution is.
 
-It is the beginning
+Every detected Semantic Loss creates opportunities to:
 
-of semantic improvement.
+* strengthen semantic integrity
+* refine governance policies
+* improve semantic compression
+* reinforce execution evidence
+* enhance semantic continuity
 
-Every detected loss
-
-creates an opportunity
-
-to refine policies,
-
-improve runtime behavior,
-
-strengthen evidence,
-
-and preserve semantic integrity.
-
-Loss therefore drives evolution.
+Semantic Loss therefore becomes an input to continuous governance refinement.
 
 ---
 
-## Governance Against Loss
+## Governance Manages Semantic Loss
 
-SSGE continuously observes
+SSGE continuously observes semantic degradation throughout execution.
 
-semantic degradation
+Governance policies may:
 
-during execution.
+* detect semantic degradation
+* evaluate semantic impact
+* initiate semantic recovery
+* refine governance policies
+* preserve semantic continuity
 
-Governance policies
-
-may intervene,
-
-adjust,
-
-or recover execution
-
-before semantic loss
-
-becomes irreversible.
-
-Semantic Loss is therefore
-
-actively governed,
-
-not passively recorded.
+Semantic Loss is therefore actively governed rather than passively recorded.
 
 ---
 
 ## Looking Forward
 
-Semantic Loss identifies
+Semantic Loss identifies where semantic meaning has weakened.
 
-where semantic meaning
+The next challenge is restoring governed semantic meaning while preserving execution integrity.
 
-has weakened.
-
-The next challenge
-
-is restoring
-
-that lost meaning.
-
-This leads naturally to
-
-Semantic Recovery,
-
-where trustworthy execution
-
-can be reconstructed,
+This naturally leads to **Semantic Recovery**, where governed execution can be reconstructed,
 
 verified,
 
-and improved.
+and continuously improved.
 
 ---
 
 ## Related Canon
 
-- C-015 Semantic Integrity
-- C-017 Semantic Recovery
-- C-008 Evidence
+* C-015 Semantic Integrity
+* C-017 Semantic Recovery
+* C-018 Semantic Continuity
+* C-008 Evidence
+* C-009 Governance
